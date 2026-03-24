@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "3518291c59a282fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "420d274411e8f861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "debf404a345851d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-htb-ai-redteamer/01-fundamentals-of-ai/08-support-vector-machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-support-vector-machines"
+            }
+          },
+          {
+            "id": "bae41c1a3bdeaffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-htb-ai-redteamer/03-intro-red-teaming-ai/11-skills-assessment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-skills-assessment"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c33e5e18db937f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "21ef149b0108ed6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e40e0e5c2474e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5baecb97d2ba0bc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3cba4a3be2dd85d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "aa0df809cc62e470",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b6931ba3280f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e56c006781d7503",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-htb-ai-redteamer/01-fundamentals-of-ai/notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for notes"
+            }
+          },
+          {
+            "id": "7a49a617404139bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05-htb-ai-redteamer/01-fundamentals-of-ai/notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from notes"
+            }
+          },
+          {
+            "id": "df93e96960379d3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "561998b66f6fb10a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee12c517317fb5c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-htb-ai-redteamer/01-fundamentals-of-ai/notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bae41c1a3bdeaffc",
+  "lastOpenFiles": [
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/10-attacking-system-components.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/09-attacking-application-components.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/08-attacking-data-components.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/07-attacking-model-components.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/06-red-teaming-generative-ai.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/05-google-saif.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/04-attacking-text-generation-llm-owasp-top10.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/03-manipulating-the-model.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/02-attacking-ml-systems-owasp-top10.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/01-introduction-to-red-teaming-ml-systems.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/notes.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/11-skills-assessment.md",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/11-skills-assessment.md.tmp.462663.1772808196431",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/10-attacking-system-components.md.tmp.462663.1772808195622",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/09-attacking-application-components.md.tmp.462663.1772808194701",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/08-attacking-data-components.md.tmp.462663.1772808193306",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/07-attacking-model-components.md.tmp.462663.1772808192447",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/06-red-teaming-generative-ai.md.tmp.462663.1772808191227",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/04-attacking-text-generation-llm-owasp-top10.md.tmp.462663.1772808188447",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/03-manipulating-the-model.md.tmp.462663.1772808187207",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/02-attacking-ml-systems-owasp-top10.md.tmp.462663.1772808185781",
+    "05-htb-ai-redteamer/03-intro-red-teaming-ai/01-introduction-to-red-teaming-ml-systems.md.tmp.462663.1772808184344",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/13-training-evaluation-spam-detection.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/12-feature-extraction.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/11-preprocessing-spam-dataset.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/10-the-spam-dataset.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/09-spam-classification.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/08-metrics-evaluating-model.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/07-data-transformation.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/06-data-preprocessing.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/05-datasets.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/04-python-libraries-for-ai.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/03-jupyterlab.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/02-environment-setup.md",
+    "05-htb-ai-redteamer/02-applications-ai-infosec/01-introduction.md",
+    "05-htb-ai-redteamer/01-fundamentals-of-ai/24-skills-assessment.md"
+  ]
+}
